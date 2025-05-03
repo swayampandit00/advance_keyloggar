@@ -1,0 +1,6 @@
+cryptography
+python-dotenv
+pynput
+Pillow
+sounddevice
+opencv-python
